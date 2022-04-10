@@ -1,0 +1,53 @@
+body {
+    background-image: url(site.jpg);
+}
+header{
+    text-align: center;
+    color: grey;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+nav{
+    text-align: center;
+    color: grey;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: grey;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(173, 216, 230);
+    border-bottom: 5px solid rgb(200, 217, 220);
+}
+.content{
+    text-align: center;
+    color: grey;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+footer{
+    background-color: lightblue;
+    border: 1px solid black;
+}
+h2{
+    color: grey;
+}
+h3{
+    color: grey;
+}
+p{
+    color: grey;
+}
