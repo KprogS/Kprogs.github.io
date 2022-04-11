@@ -1,5 +1,5 @@
 body {
-    background-image: url('images/site.jpg');
+    background-image: url(images/site.jpg);
 }
 header{
     text-align: center;
